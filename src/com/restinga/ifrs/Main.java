@@ -14,6 +14,7 @@ public class Main {
         System.out.println("O Jeferson mora Canoas");
         System.out.println("Trabalha com programador");
         System.out.println("Empresa: DB e DBpt");
+        System.out.println("Hobby: Esporte");
 
 
     }

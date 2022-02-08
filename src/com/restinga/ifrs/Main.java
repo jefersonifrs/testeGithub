@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Lopes");
         System.out.println("Eugenio");
         System.out.println("Jeferson Lopes Eugenio");
+        System.out.println("O Jeferson tem 29 anos");
+        System.out.println("O Jeferson mora Canoas");
 
     }
 }

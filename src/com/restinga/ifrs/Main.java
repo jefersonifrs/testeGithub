@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Cor: Vermelho");
         System.out.println("Bebida: Suco");
         System.out.println("teste nome do user");
+        System.out.println("teste nome do email");
 
     }
 }

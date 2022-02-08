@@ -18,6 +18,7 @@ public class Main {
         System.out.println("Time: INTER");
         System.out.println("Cor: Vermelho");
         System.out.println("Bebida: Suco");
+        System.out.println("teste nome do user");
 
     }
 }

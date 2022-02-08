@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Hobby: Esporte");
         System.out.println("Time: INTER");
         System.out.println("Cor: Vermelho");
+        System.out.println("Bebida: Suco");
 
     }
 }

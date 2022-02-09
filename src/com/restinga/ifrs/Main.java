@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Cor: Vermelho");
         System.out.println("Bebida: Suco");
         System.out.println("Comida: Tanto fez");
-        System.out.println("TESTES");
+        System.out.println("TESTES 1");
+        System.out.println("TESTES 2");
     }
 }

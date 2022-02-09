@@ -21,5 +21,6 @@ public class Main {
         System.out.println("Comida: Tanto fez");
         System.out.println("TESTES 1");
         System.out.println("TESTES 2");
+        System.out.println(2+4);
     }
 }

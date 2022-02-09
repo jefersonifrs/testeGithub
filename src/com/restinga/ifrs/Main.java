@@ -18,6 +18,6 @@ public class Main {
         System.out.println("Time: INTER");
         System.out.println("Cor: Vermelho");
         System.out.println("Bebida: Suco");
-        System.out.println("Comida: Tanto fez");
+        System.out.println("Comida: MC Donald");
     }
 }

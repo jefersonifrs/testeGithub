@@ -23,5 +23,6 @@ public class Main {
         System.out.println("TESTES 2");
         System.out.println(2+4);
         System.out.println(4+4);
+        System.out.println(5+5);
     }
 }
